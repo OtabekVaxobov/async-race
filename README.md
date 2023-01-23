@@ -1,1 +1,1 @@
-this is gh-pages
+[deploy](https://otabekvaxobov.github.io/async-race/client/dist/#/)
