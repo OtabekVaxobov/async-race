@@ -1,9 +1,1 @@
-# Server
-### `cd ./server` 
-### `npm i`
-### `npm start`
-
-# Client
-### `cd ./client`
-### `npm i`
-### `npm run dev`
+[deploy](https://otabekvaxobov.github.io/async-race/client/dist/#/)
